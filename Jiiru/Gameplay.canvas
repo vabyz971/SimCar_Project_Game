@@ -9,7 +9,7 @@
 		{"type":"text","text":"Véhicule Stock\n* Stock véhicule de marque ","id":"45f0d20d70091168","x":-180,"y":-600,"width":250,"height":120,"color":"1"},
 		{"type":"text","text":"Personnalisation\n* Menu d'édition des performance  par rapport au 5 grande catégorie d'amélioration\n* Accés au \"Kit preset\" et \"Esthetique\" sous un menu different pour l'aspect visuel des modification du véhicule","id":"1b031b6356d84267","x":-180,"y":-450,"width":250,"height":370,"color":"4"},
 		{"id":"8951e06a33ae05f3","x":-178,"y":1162,"width":250,"height":60,"type":"text","text":"Véhicule modifié"},
-		{"type":"text","text":"Kit Preset","id":"3b4b58b9390a2148","x":-1280,"y":275,"width":250,"height":150,"color":"2"},
+		{"type":"text","text":"Kit Preset\n* Accès rapide a des amélioration sans ce fatigué déja pré-faite ","id":"3b4b58b9390a2148","x":-1280,"y":275,"width":250,"height":150,"color":"2"},
 		{"type":"text","text":"Esthetique","id":"34d759553b7d6cb4","x":900,"y":245,"width":250,"height":150,"color":"5"}
 	],
 	"edges":[
@@ -27,6 +27,7 @@
 		{"id":"7ebba76b90f048cf","fromNode":"a7bc00e9c6b95916","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"top"},
 		{"id":"a8008911b8c20e40","fromNode":"1b031b6356d84267","fromSide":"left","toNode":"3b4b58b9390a2148","toSide":"top"},
 		{"id":"0d1b815d960e5639","fromNode":"3b4b58b9390a2148","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"left"},
-		{"id":"6a93bd54b26ae839","fromNode":"1b031b6356d84267","fromSide":"right","toNode":"34d759553b7d6cb4","toSide":"top"}
+		{"id":"6a93bd54b26ae839","fromNode":"1b031b6356d84267","fromSide":"right","toNode":"34d759553b7d6cb4","toSide":"top"},
+		{"id":"735d19187fd0cccd","fromNode":"34d759553b7d6cb4","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"right"}
 	]
 }
