@@ -4,12 +4,12 @@
 		{"id":"1b031b6356d84267","x":-180,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"Personnalisation"},
 		{"id":"34d759553b7d6cb4","x":175,"y":-140,"width":250,"height":60,"color":"5","type":"text","text":"Esthetique"},
 		{"id":"3b4b58b9390a2148","x":-540,"y":-140,"width":250,"height":60,"color":"2","type":"text","text":"Kit Preset"},
-		{"id":"de60440a9c10ad2d","x":-880,"y":60,"width":250,"height":580,"color":"6","type":"text","text":"Adhérance\n* Pneus\n* Jantes"},
-		{"id":"c50536f9332731b7","x":500,"y":60,"width":250,"height":580,"color":"6","type":"text","text":"Aerodynamisme\n* Spoiler\n* Moustache pare-choc\n* Lame Pare-choc\n* Prise d'air\n* Kit carrosserie"},
-		{"id":"8bb57cb74285e865","x":-560,"y":120,"width":250,"height":520,"color":"6","type":"text","text":"Maniabilité\n* Suspension\n* Frein\n* Pédalier\n* Barre de direction assistée"},
-		{"id":"a8c9466136d2fcc2","x":-180,"y":150,"width":250,"height":490,"color":"6","type":"text","text":"Transmistion\n* Boite de vitesse\n* Shifter\n* Mass FlyWheel\n* Disque d'embreyage\n* Differenciel (4wd)\n* "},
-		{"id":"6839d83dbc5ff1e6","x":160,"y":90,"width":250,"height":550,"color":"6","type":"text","text":"Puissance\n* Moteur / (Swap)\n* Turbo\n* Echangeur\n* Filtre à air\n* Capteur\n* ECU\n* Regulateur de carburant\n* Injecteur\n* Ligne d'échappement\n* Admission\n* Bougie / Bobine\n* Pompe Carburant"},
-		{"id":"a7bc00e9c6b95916","x":-180,"y":920,"width":250,"height":60,"type":"text","text":"Comportement et puissance Final"}
+		{"id":"de60440a9c10ad2d","x":-880,"y":60,"width":250,"height":580,"color":"6","type":"text","text":"1.Adhérance\n* Pneus\n* Jantes"},
+		{"id":"c50536f9332731b7","x":500,"y":60,"width":250,"height":580,"color":"6","type":"text","text":"5.Aerodynamisme\n* Spoiler\n* Moustache pare-choc\n* Lame Pare-choc\n* Prise d'air\n* Kit carrosserie"},
+		{"id":"8bb57cb74285e865","x":-560,"y":120,"width":250,"height":520,"color":"6","type":"text","text":"2.Maniabilité\n* Suspension\n* Frein\n* Pédalier\n* Barre de direction assistée"},
+		{"id":"a8c9466136d2fcc2","x":-180,"y":150,"width":250,"height":490,"color":"6","type":"text","text":"3.Transmistion\n* Boite de vitesse\n* Shifter\n* Mass FlyWheel\n* Disque d'embreyage\n* Differenciel (4wd)\n* "},
+		{"id":"6839d83dbc5ff1e6","x":160,"y":90,"width":250,"height":550,"color":"6","type":"text","text":"4.Puissance\n* Moteur / (Swap)\n* Turbo\n* Echangeur\n* Filtre à air\n* Capteur\n* ECU\n* Regulateur de carburant\n* Injecteur\n* Ligne d'échappement\n* Admission\n* Bougie / Bobine\n* Pompe Carburant"},
+		{"id":"a7bc00e9c6b95916","x":-180,"y":900,"width":250,"height":60,"color":"1","type":"text","text":"Comportement et puissance final du véhicule"}
 	],
 	"edges":[
 		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
@@ -19,6 +19,11 @@
 		{"id":"a0d06702b95fbeca","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"6839d83dbc5ff1e6","toSide":"top"},
 		{"id":"53195e60f4ca94e7","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"c50536f9332731b7","toSide":"top"},
 		{"id":"4a2bcf0c46eb3a8f","fromNode":"1b031b6356d84267","fromSide":"right","toNode":"34d759553b7d6cb4","toSide":"left"},
-		{"id":"2cb99670a6e8c8ed","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"a8c9466136d2fcc2","toSide":"top"}
+		{"id":"2cb99670a6e8c8ed","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"a8c9466136d2fcc2","toSide":"top"},
+		{"id":"a35461300765bd91","fromNode":"de60440a9c10ad2d","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
+		{"id":"78fb5c62d9086569","fromNode":"8bb57cb74285e865","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
+		{"id":"cc32ea837c04e75b","fromNode":"a8c9466136d2fcc2","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
+		{"id":"4f685abad5597f80","fromNode":"6839d83dbc5ff1e6","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
+		{"id":"cbb96905c83dbe92","fromNode":"c50536f9332731b7","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"}
 	]
 }
