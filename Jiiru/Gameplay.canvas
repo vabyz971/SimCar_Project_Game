@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"912b6a7a050dac24","x":-1300,"y":-620,"width":2470,"height":1940,"type":"group","label":"Véhicule"},
-		{"id":"08abce430c0ea31d","x":1361,"y":-237,"width":940,"height":440,"type":"group","label":"Type de D'adhérence"},
+		{"id":"08abce430c0ea31d","x":1361,"y":-237,"width":940,"height":440,"color":"#121212","type":"group","label":"Type de D'adhérence"},
 		{"type":"text","text":"1.Adhérance\n* Pneus\n* Jantes","id":"de60440a9c10ad2d","x":-880,"y":60,"width":250,"height":580,"color":"6"},
 		{"type":"text","text":"5.Aerodynamisme\n* Spoiler\n* Moustache pare-choc\n* Lame Pare-choc\n* Prise d'air\n* Kit carrosserie","id":"c50536f9332731b7","x":500,"y":60,"width":250,"height":580,"color":"6"},
 		{"type":"text","text":"2.Maniabilité\n* Suspension\n* Frein\n* Pédalier\n* Barre de direction assistée","id":"8bb57cb74285e865","x":-560,"y":120,"width":250,"height":520,"color":"6"},
@@ -15,7 +15,7 @@
 		{"type":"text","text":"Comportement et puissance final du véhicule\n* Puissance et comportement Max additioner ","id":"a7bc00e9c6b95916","x":-178,"y":880,"width":250,"height":183,"color":"#210a4d"},
 		{"id":"67c74372432b6115","x":1631,"y":-217,"width":400,"height":400,"type":"link","url":"https://wiki.tripleperformance.fr/images/thumb/8/82/Triangle_textures_sol2.png/300px-Triangle_textures_sol2.png"},
 		{"id":"edc3fc903011f767","x":1381,"y":-217,"width":250,"height":400,"type":"text","text":"Type de sol \nExemple:\n* Terreste\n* Gravier\n* Sable\n* Circuit (ratio 0.95)\n* Urbain (ratio 0.90)\n* Drag Race (ratio 1.00)\n"},
-		{"id":"55a3dc91df656fe1","x":2031,"y":-217,"width":250,"height":400,"type":"text","text":"La Météo\n\n* En soleiller\n* Brumeux\n* Pluie (-0.)"}
+		{"id":"55a3dc91df656fe1","x":2031,"y":-217,"width":250,"height":400,"type":"text","text":"La Météo\nExemple:\n* En soleiller (normale 1)\n* Brumeux (-0.10 visibilité)\n* Pluie (-0.3 adhérence)"}
 	],
 	"edges":[
 		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
