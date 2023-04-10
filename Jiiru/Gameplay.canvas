@@ -18,7 +18,7 @@
 		{"type":"text","text":"Type de sol \nExemple:\n* Terreste\n* Gravier\n* Sable\n* Circuit (ratio 0.90)\n* Urbain (ratio 0.80)\n* Drag Race (ratio max 1.00)\n*Adherence limite ne peux pas etre dépasser* ","id":"edc3fc903011f767","x":1200,"y":-480,"width":250,"height":400},
 		{"type":"link","url":"https://wiki.tripleperformance.fr/images/thumb/8/82/Triangle_textures_sol2.png/300px-Triangle_textures_sol2.png","id":"67c74372432b6115","x":1450,"y":-480,"width":400,"height":400,"color":"#000000"},
 		{"type":"text","text":"La Météo\nExemple:\n* En soleiller (normale 1)\n* Brumeux (-0.10 visibilité)\n* Pluie (-0.3 adhérence)","id":"55a3dc91df656fe1","x":1850,"y":-480,"width":250,"height":400},
-		{"type":"link","url":"https://fce640c126.cbaul-cdnwnd.com/ec32ecd4cb8411d6d68825052427752a/200000005-74d9675d67/forces_en_jeu.png","id":"8500c5422ebc9a49","x":1450,"y":712,"width":400,"height":400},
+		{"type":"link","url":"https://fce640c126.cbaul-cdnwnd.com/ec32ecd4cb8411d6d68825052427752a/200000005-74d9675d67/forces_en_jeu.png","id":"8500c5422ebc9a49","x":1450,"y":712,"width":400,"height":400,"color":"#000000"},
 		{"type":"text","text":"Force frottement air \n* Baise ou augmente en fonction du gabarit du véhicule et du schema ","id":"9031693ea2e27d49","x":1200,"y":712,"width":250,"height":400},
 		{"type":"text","text":"Puissance\n* Peux etre augmenter et baisser en fonction du poids du véhicule\n* Du CO² que le véhicule absorbe (+/- ch)\n* et (5.l'Aerodynamisme)","id":"487b495ede187c91","x":1850,"y":712,"width":250,"height":400},
 		{"type":"text","text":"Déplacement réel dans l'environnement adapter","id":"13a5b791d03543c1","x":1525,"y":260,"width":250,"height":60,"color":"1"}
@@ -40,9 +40,9 @@
 		{"id":"0d1b815d960e5639","fromNode":"3b4b58b9390a2148","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"left","color":"2"},
 		{"id":"6a93bd54b26ae839","fromNode":"1b031b6356d84267","fromSide":"right","toNode":"34d759553b7d6cb4","toSide":"top","color":"5"},
 		{"id":"735d19187fd0cccd","fromNode":"34d759553b7d6cb4","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"right","color":"5"},
-		{"id":"6bf0cda59da2d9e0","fromNode":"912b6a7a050dac24","fromSide":"right","toNode":"08abce430c0ea31d","toSide":"left"},
-		{"id":"0f8e3ea74ae10f6b","fromNode":"912b6a7a050dac24","fromSide":"right","toNode":"2e3534ec8e27eb3a","toSide":"left"},
-		{"id":"54b4b27370716fc0","fromNode":"08abce430c0ea31d","fromSide":"bottom","toNode":"13a5b791d03543c1","toSide":"top"},
+		{"id":"6bf0cda59da2d9e0","fromNode":"912b6a7a050dac24","fromSide":"right","toNode":"08abce430c0ea31d","toSide":"left","color":"4"},
+		{"id":"0f8e3ea74ae10f6b","fromNode":"912b6a7a050dac24","fromSide":"right","toNode":"2e3534ec8e27eb3a","toSide":"left","color":"3"},
+		{"id":"54b4b27370716fc0","fromNode":"08abce430c0ea31d","fromSide":"bottom","toNode":"13a5b791d03543c1","toSide":"top","color":"4"},
 		{"id":"d45fc5e74b574399","fromNode":"2e3534ec8e27eb3a","fromSide":"top","toNode":"13a5b791d03543c1","toSide":"bottom","color":"3"}
 	]
 }
