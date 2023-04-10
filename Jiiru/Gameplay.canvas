@@ -14,7 +14,7 @@
 		{"type":"text","text":"Esthetique\n* Modifie le visuel du véhicule (exemple : pare-choc, optique, etc.)","id":"34d759553b7d6cb4","x":900,"y":245,"width":250,"height":195,"color":"5"},
 		{"type":"text","text":"Comportement et puissance final du véhicule\n* Puissance et comportement Max additioner ","id":"a7bc00e9c6b95916","x":-178,"y":880,"width":250,"height":183,"color":"#210a4d"},
 		{"id":"67c74372432b6115","x":1710,"y":-600,"width":400,"height":400,"color":"#000000","type":"link","url":"https://wiki.tripleperformance.fr/images/thumb/8/82/Triangle_textures_sol2.png/300px-Triangle_textures_sol2.png"},
-		{"id":"edc3fc903011f767","x":1460,"y":-600,"width":250,"height":400,"type":"text","text":"Type de sol \nExemple:\n* Terreste\n* Gravier\n* Sable\n* Circuit (ratio 0.95)\n* Urbain (ratio 0.90)\n* Drag Race (ratio 1.00)\n"},
+		{"id":"edc3fc903011f767","x":1460,"y":-600,"width":250,"height":400,"type":"text","text":"Type de sol \nExemple:\n* Terreste\n* Gravier\n* Sable\n* Circuit (ratio 0.90)\n* Urbain (ratio 0.80)\n* Drag Race (ratio max 1.00)\n*Adherence limite ne peux pas etre dépasser* "},
 		{"id":"55a3dc91df656fe1","x":2110,"y":-600,"width":250,"height":400,"type":"text","text":"La Météo\nExemple:\n* En soleiller (normale 1)\n* Brumeux (-0.10 visibilité)\n* Pluie (-0.3 adhérence)"}
 	],
 	"edges":[
