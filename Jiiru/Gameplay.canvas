@@ -8,24 +8,25 @@
 		{"type":"text","text":"Comportement et puissance final du véhicule","id":"a7bc00e9c6b95916","x":-180,"y":900,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"Véhicule Stock\n* Stock véhicule de marque ","id":"45f0d20d70091168","x":-180,"y":-600,"width":250,"height":120,"color":"1"},
 		{"type":"text","text":"Personnalisation\n* Menu d'édition des performance  par rapport au 5 grande catégorie d'amélioration\n* Accés au \"Kit preset\" et \"Esthetique\" sous un menu different pour l'aspect visuel des modification du véhicule","id":"1b031b6356d84267","x":-180,"y":-450,"width":250,"height":370,"color":"4"},
-		{"type":"text","text":"Esthetique","id":"34d759553b7d6cb4","x":180,"y":-450,"width":250,"height":150,"color":"5"},
-		{"type":"text","text":"Kit Preset","id":"3b4b58b9390a2148","x":-540,"y":-450,"width":250,"height":150,"color":"2"},
-		{"id":"0503f32926110bec","x":-215,"y":-896,"width":250,"height":60,"type":"text","text":"Véhicule M"}
+		{"id":"8951e06a33ae05f3","x":-178,"y":1162,"width":250,"height":60,"type":"text","text":"Véhicule modifié"},
+		{"type":"text","text":"Kit Preset","id":"3b4b58b9390a2148","x":-1280,"y":275,"width":250,"height":150,"color":"2"},
+		{"type":"text","text":"Esthetique","id":"34d759553b7d6cb4","x":900,"y":245,"width":250,"height":150,"color":"5"}
 	],
 	"edges":[
 		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
-		{"id":"64a82d002dc926b2","fromNode":"1b031b6356d84267","fromSide":"left","toNode":"3b4b58b9390a2148","toSide":"right"},
 		{"id":"c9468d1e25deb287","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"de60440a9c10ad2d","toSide":"top"},
 		{"id":"3860e5b50ee22fd2","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"8bb57cb74285e865","toSide":"top"},
 		{"id":"a0d06702b95fbeca","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"6839d83dbc5ff1e6","toSide":"top"},
 		{"id":"53195e60f4ca94e7","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"c50536f9332731b7","toSide":"top"},
-		{"id":"4a2bcf0c46eb3a8f","fromNode":"1b031b6356d84267","fromSide":"right","toNode":"34d759553b7d6cb4","toSide":"left"},
 		{"id":"2cb99670a6e8c8ed","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"a8c9466136d2fcc2","toSide":"top"},
 		{"id":"a35461300765bd91","fromNode":"de60440a9c10ad2d","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
 		{"id":"78fb5c62d9086569","fromNode":"8bb57cb74285e865","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
 		{"id":"cc32ea837c04e75b","fromNode":"a8c9466136d2fcc2","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
 		{"id":"4f685abad5597f80","fromNode":"6839d83dbc5ff1e6","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
 		{"id":"cbb96905c83dbe92","fromNode":"c50536f9332731b7","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
-		{"id":"df944a9f09d0d7e8","fromNode":"3b4b58b9390a2148","fromSide":"top","toNode":"0503f32926110bec","toSide":"bottom"}
+		{"id":"7ebba76b90f048cf","fromNode":"a7bc00e9c6b95916","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"top"},
+		{"id":"a8008911b8c20e40","fromNode":"1b031b6356d84267","fromSide":"left","toNode":"3b4b58b9390a2148","toSide":"top"},
+		{"id":"0d1b815d960e5639","fromNode":"3b4b58b9390a2148","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"left"},
+		{"id":"6a93bd54b26ae839","fromNode":"1b031b6356d84267","fromSide":"right","toNode":"34d759553b7d6cb4","toSide":"top"}
 	]
 }
