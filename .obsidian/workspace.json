@@ -15,9 +15,9 @@
               "state": {
                 "file": "Jiiru/Gameplay.canvas",
                 "viewState": {
-                  "x": 851.6711431601932,
-                  "y": 574.7656023894731,
-                  "zoom": -0.5549767281312854
+                  "x": 340,
+                  "y": 260,
+                  "zoom": -1.047402869230792
                 }
               }
             }
@@ -159,9 +159,9 @@
   },
   "active": "043b2d94a248a04d",
   "lastOpenFiles": [
+    "Vabyz/Functionnaliter.md",
     "Vabyz/StoryBoard.canvas",
     "Jiiru/Gameplay.canvas",
-    "Vabyz/Functionnaliter.md",
     "Jiiru",
     "2023-04-09.md",
     "Jiiru",
