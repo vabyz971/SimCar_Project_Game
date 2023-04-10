@@ -16,7 +16,8 @@
 		{"type":"text","text":"Type de sol \nExemple:\n* Terreste\n* Gravier\n* Sable\n* Circuit (ratio 0.90)\n* Urbain (ratio 0.80)\n* Drag Race (ratio max 1.00)\n*Adherence limite ne peux pas etre dépasser* ","id":"edc3fc903011f767","x":1340,"y":-420,"width":250,"height":400},
 		{"type":"text","text":"La Météo\nExemple:\n* En soleiller (normale 1)\n* Brumeux (-0.10 visibilité)\n* Pluie (-0.3 adhérence)","id":"55a3dc91df656fe1","x":1990,"y":-420,"width":250,"height":400},
 		{"type":"link","url":"https://wiki.tripleperformance.fr/images/thumb/8/82/Triangle_textures_sol2.png/300px-Triangle_textures_sol2.png","id":"67c74372432b6115","x":1590,"y":-420,"width":400,"height":400,"color":"#000000"},
-		{"id":"9031693ea2e27d49","x":1472,"y":439,"width":250,"height":60,"type":"text","text":"Force "}
+		{"id":"8500c5422ebc9a49","x":1590,"y":772,"width":400,"height":400,"type":"link","url":"https://fce640c126.cbaul-cdnwnd.com/ec32ecd4cb8411d6d68825052427752a/200000005-74d9675d67/forces_en_jeu.png"},
+		{"id":"9031693ea2e27d49","x":1340,"y":772,"width":250,"height":60,"type":"text","text":"Force frottement air \n* Baise ou augmente en fonction du gabari du véhicule et du schema "}
 	],
 	"edges":[
 		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
