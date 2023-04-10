@@ -2,7 +2,7 @@
 	"nodes":[
 		{"type":"group","id":"912b6a7a050dac24","x":-1300,"y":-620,"width":2470,"height":1940,"label":"Véhicule"},
 		{"type":"group","id":"08abce430c0ea31d","x":1320,"y":-440,"width":940,"height":440,"color":"#121212","label":"Type de D'adhérence"},
-		{"id":"2e3534ec8e27eb3a","x":1320,"y":752,"width":940,"height":440,"type":"group","label":"Force de l'air et faiblesse"},
+		{"id":"2e3534ec8e27eb3a","x":1320,"y":752,"width":940,"height":440,"color":"#141414","type":"group","label":"Force de l'air et faiblesse"},
 		{"type":"text","text":"1.Adhérance\n* Pneus\n* Jantes","id":"de60440a9c10ad2d","x":-880,"y":60,"width":250,"height":580,"color":"6"},
 		{"type":"text","text":"5.Aerodynamisme\n* Spoiler\n* Moustache pare-choc\n* Lame Pare-choc\n* Prise d'air\n* Kit carrosserie","id":"c50536f9332731b7","x":500,"y":60,"width":250,"height":580,"color":"6"},
 		{"type":"text","text":"2.Maniabilité\n* Suspension\n* Frein\n* Pédalier\n* Barre de direction assistée","id":"8bb57cb74285e865","x":-560,"y":120,"width":250,"height":520,"color":"6"},
