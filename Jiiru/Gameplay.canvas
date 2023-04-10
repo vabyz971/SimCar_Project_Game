@@ -21,21 +21,21 @@
 		{"type":"link","url":"https://fce640c126.cbaul-cdnwnd.com/ec32ecd4cb8411d6d68825052427752a/200000005-74d9675d67/forces_en_jeu.png","id":"8500c5422ebc9a49","x":1450,"y":712,"width":400,"height":400},
 		{"type":"text","text":"Force frottement air \n* Baise ou augmente en fonction du gabarit du véhicule et du schema ","id":"9031693ea2e27d49","x":1200,"y":712,"width":250,"height":400},
 		{"type":"text","text":"Puissance\n* Peux etre augmenter et baisser en fonction du poids du véhicule\n* Du CO² que le véhicule absorbe (+/- ch)\n* et (5.l'Aerodynamisme)","id":"487b495ede187c91","x":1850,"y":712,"width":250,"height":400},
-		{"type":"text","text":"Déplacement réel dans l'environnement adapter","id":"13a5b791d03543c1","x":1525,"y":260,"width":250,"height":60}
+		{"type":"text","text":"Déplacement réel dans l'environnement adapter","id":"13a5b791d03543c1","x":1525,"y":260,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
-		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
-		{"id":"c9468d1e25deb287","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"de60440a9c10ad2d","toSide":"top"},
-		{"id":"3860e5b50ee22fd2","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"8bb57cb74285e865","toSide":"top"},
-		{"id":"a0d06702b95fbeca","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"6839d83dbc5ff1e6","toSide":"top"},
-		{"id":"53195e60f4ca94e7","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"c50536f9332731b7","toSide":"top"},
-		{"id":"2cb99670a6e8c8ed","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"a8c9466136d2fcc2","toSide":"top"},
-		{"id":"a35461300765bd91","fromNode":"de60440a9c10ad2d","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
-		{"id":"78fb5c62d9086569","fromNode":"8bb57cb74285e865","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
-		{"id":"cc32ea837c04e75b","fromNode":"a8c9466136d2fcc2","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
-		{"id":"4f685abad5597f80","fromNode":"6839d83dbc5ff1e6","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
-		{"id":"cbb96905c83dbe92","fromNode":"c50536f9332731b7","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top"},
-		{"id":"7ebba76b90f048cf","fromNode":"a7bc00e9c6b95916","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"top"},
+		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top","color":"1"},
+		{"id":"c9468d1e25deb287","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"de60440a9c10ad2d","toSide":"top","color":"6"},
+		{"id":"3860e5b50ee22fd2","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"8bb57cb74285e865","toSide":"top","color":"6"},
+		{"id":"a0d06702b95fbeca","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"6839d83dbc5ff1e6","toSide":"top","color":"6"},
+		{"id":"53195e60f4ca94e7","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"c50536f9332731b7","toSide":"top","color":"6"},
+		{"id":"2cb99670a6e8c8ed","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"a8c9466136d2fcc2","toSide":"top","color":"6"},
+		{"id":"a35461300765bd91","fromNode":"de60440a9c10ad2d","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top","color":"6"},
+		{"id":"78fb5c62d9086569","fromNode":"8bb57cb74285e865","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top","color":"6"},
+		{"id":"cc32ea837c04e75b","fromNode":"a8c9466136d2fcc2","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top","color":"6"},
+		{"id":"4f685abad5597f80","fromNode":"6839d83dbc5ff1e6","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top","color":"6"},
+		{"id":"cbb96905c83dbe92","fromNode":"c50536f9332731b7","fromSide":"bottom","toNode":"a7bc00e9c6b95916","toSide":"top","color":"6"},
+		{"id":"7ebba76b90f048cf","fromNode":"a7bc00e9c6b95916","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"top","color":"#2e0066"},
 		{"id":"a8008911b8c20e40","fromNode":"1b031b6356d84267","fromSide":"left","toNode":"3b4b58b9390a2148","toSide":"top","color":"2"},
 		{"id":"0d1b815d960e5639","fromNode":"3b4b58b9390a2148","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"left","color":"2"},
 		{"id":"6a93bd54b26ae839","fromNode":"1b031b6356d84267","fromSide":"right","toNode":"34d759553b7d6cb4","toSide":"top","color":"5"},
@@ -43,6 +43,6 @@
 		{"id":"6bf0cda59da2d9e0","fromNode":"912b6a7a050dac24","fromSide":"right","toNode":"08abce430c0ea31d","toSide":"left"},
 		{"id":"0f8e3ea74ae10f6b","fromNode":"912b6a7a050dac24","fromSide":"right","toNode":"2e3534ec8e27eb3a","toSide":"left"},
 		{"id":"54b4b27370716fc0","fromNode":"08abce430c0ea31d","fromSide":"bottom","toNode":"13a5b791d03543c1","toSide":"top"},
-		{"id":"d45fc5e74b574399","fromNode":"2e3534ec8e27eb3a","fromSide":"top","toNode":"13a5b791d03543c1","toSide":"bottom"}
+		{"id":"d45fc5e74b574399","fromNode":"2e3534ec8e27eb3a","fromSide":"top","toNode":"13a5b791d03543c1","toSide":"bottom","color":"3"}
 	]
 }
