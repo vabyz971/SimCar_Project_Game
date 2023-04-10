@@ -4,7 +4,7 @@
 		{"id":"1b031b6356d84267","x":-180,"y":-140,"width":250,"height":60,"type":"text","text":"Personnalisation"},
 		{"id":"de60440a9c10ad2d","x":-665,"y":60,"width":250,"height":60,"type":"text","text":"Adhérance"},
 		{"id":"8bb57cb74285e865","x":-400,"y":60,"width":250,"height":60,"type":"text","text":"Maniabilité"},
-		{"id":"6839d83dbc5ff1e6","x":40,"y":60,"width":250,"height":60,"type":"text","text":"Puissance\n"},
+		{"id":"6839d83dbc5ff1e6","x":40,"y":60,"width":250,"height":200,"type":"text","text":"Puissance\n* Moteur\n* Turbo\n* Echangeur\n* Filtre à air\n* "},
 		{"id":"c50536f9332731b7","x":300,"y":60,"width":250,"height":60,"type":"text","text":"Aerodynamisme"},
 		{"id":"34d759553b7d6cb4","x":175,"y":-140,"width":250,"height":60,"type":"text","text":"Esthetique"},
 		{"id":"3b4b58b9390a2148","x":-540,"y":-140,"width":250,"height":60,"type":"text","text":"Kit Preset"}
