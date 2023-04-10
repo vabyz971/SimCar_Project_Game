@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "87c40a7f9652626e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99aa856c5ee14e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8b32aeebac70631",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vabyz/StoryBoard.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -93,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00bcee7de17387ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd672352e5f45b71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c318e18e2a19b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "895761f0fe849c54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2e7e9b3a3408e1b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b73f5d6ea4063957",
+    "type": "split",
+    "children": [
+      {
+        "id": "5022cff70f226e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ac69a2266765cac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vabyz/StoryBoard.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d49ad87f8818f084",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vabyz/StoryBoard.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01a0af4f806ca006",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "390711a30f04e1a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vabyz/StoryBoard.canvas"
+              }
+            }
+          },
+          {
+            "id": "8473cc850310071b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "4ac69a2266765cac",
+  "lastOpenFiles": [
+    "Vabyz/Functionnaliter.md",
+    "Vabyz/StoryBoard.canvas",
+    "Media",
+    "Vabyz",
+    "Jiiru"
+  ]
+}

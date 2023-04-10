@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a81c27d54aaad057","x":-580,"y":-300,"width":250,"height":60,"type":"text","text":"# Véhicule "},
+		{"id":"638681b1fcdacd15","x":-580,"y":-160,"width":250,"height":60,"type":"text","text":"# Moteur"}
+	],
+	"edges":[
+		{"id":"9a391a023769f1a3","fromNode":"a81c27d54aaad057","fromSide":"bottom","toNode":"638681b1fcdacd15","toSide":"top"}
+	]
+}
