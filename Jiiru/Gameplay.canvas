@@ -6,9 +6,9 @@
 		{"id":"3b4b58b9390a2148","x":-540,"y":-140,"width":250,"height":60,"type":"text","text":"Kit Preset"},
 		{"id":"de60440a9c10ad2d","x":-880,"y":60,"width":250,"height":280,"type":"text","text":"Adhérance\n* Pneus\n* Jantes"},
 		{"id":"c50536f9332731b7","x":500,"y":60,"width":250,"height":60,"type":"text","text":"Aerodynamisme"},
-		{"id":"8bb57cb74285e865","x":-560,"y":120,"width":250,"height":220,"type":"text","text":"Maniabilité\n* Suspension"},
+		{"id":"8bb57cb74285e865","x":-560,"y":120,"width":250,"height":220,"type":"text","text":"Maniabilité\n* Suspension\n* Frein\n* "},
 		{"id":"a8c9466136d2fcc2","x":-180,"y":150,"width":250,"height":60,"type":"text","text":"Transmistion\n* Boite de vitesse\n* Shifter\n* Mass FlyWheel\n* Disque d'embreyage"},
-		{"id":"6839d83dbc5ff1e6","x":160,"y":90,"width":250,"height":288,"type":"text","text":"Puissance\n* Moteur\n* Turbo\n* Echangeur\n* Filtre à air\n* Capteur\n* ECU\n* Regulateur de carburant\n* Injecteur\n* Ligne d'échappement\n* Admission\n* Bougie\n* "}
+		{"id":"6839d83dbc5ff1e6","x":160,"y":90,"width":250,"height":550,"type":"text","text":"Puissance\n* Moteur\n* Turbo\n* Echangeur\n* Filtre à air\n* Capteur\n* ECU\n* Regulateur de carburant\n* Injecteur\n* Ligne d'échappement\n* Admission\n* Bougie / Bobine\n* "}
 	],
 	"edges":[
 		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
