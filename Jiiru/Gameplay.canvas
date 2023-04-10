@@ -2,7 +2,7 @@
 	"nodes":[
 		{"type":"group","id":"912b6a7a050dac24","x":-1300,"y":-620,"width":2470,"height":1940,"label":"Véhicule"},
 		{"type":"group","id":"08abce430c0ea31d","x":1320,"y":-440,"width":940,"height":440,"color":"#121212","label":"Type de D'adhérence"},
-		{"id":"2e3534ec8e27eb3a","x":1320,"y":752,"width":940,"height":440,"color":"#141414","type":"group","label":"Force de l'air et faiblesse"},
+		{"type":"group","id":"2e3534ec8e27eb3a","x":1320,"y":752,"width":940,"height":440,"color":"#141414","label":"Force de l'air et faiblesse"},
 		{"type":"text","text":"1.Adhérance\n* Pneus\n* Jantes","id":"de60440a9c10ad2d","x":-880,"y":60,"width":250,"height":580,"color":"6"},
 		{"type":"text","text":"5.Aerodynamisme\n* Spoiler\n* Moustache pare-choc\n* Lame Pare-choc\n* Prise d'air\n* Kit carrosserie","id":"c50536f9332731b7","x":500,"y":60,"width":250,"height":580,"color":"6"},
 		{"type":"text","text":"2.Maniabilité\n* Suspension\n* Frein\n* Pédalier\n* Barre de direction assistée","id":"8bb57cb74285e865","x":-560,"y":120,"width":250,"height":520,"color":"6"},
@@ -17,9 +17,10 @@
 		{"type":"text","text":"Type de sol \nExemple:\n* Terreste\n* Gravier\n* Sable\n* Circuit (ratio 0.90)\n* Urbain (ratio 0.80)\n* Drag Race (ratio max 1.00)\n*Adherence limite ne peux pas etre dépasser* ","id":"edc3fc903011f767","x":1340,"y":-420,"width":250,"height":400},
 		{"type":"text","text":"La Météo\nExemple:\n* En soleiller (normale 1)\n* Brumeux (-0.10 visibilité)\n* Pluie (-0.3 adhérence)","id":"55a3dc91df656fe1","x":1990,"y":-420,"width":250,"height":400},
 		{"type":"link","url":"https://wiki.tripleperformance.fr/images/thumb/8/82/Triangle_textures_sol2.png/300px-Triangle_textures_sol2.png","id":"67c74372432b6115","x":1590,"y":-420,"width":400,"height":400,"color":"#000000"},
-		{"id":"8500c5422ebc9a49","x":1590,"y":772,"width":400,"height":400,"type":"link","url":"https://fce640c126.cbaul-cdnwnd.com/ec32ecd4cb8411d6d68825052427752a/200000005-74d9675d67/forces_en_jeu.png"},
-		{"id":"9031693ea2e27d49","x":1340,"y":772,"width":250,"height":400,"type":"text","text":"Force frottement air \n* Baise ou augmente en fonction du gabarit du véhicule et du schema "},
-		{"id":"487b495ede187c91","x":1990,"y":772,"width":250,"height":400,"type":"text","text":"Puissance\n* Peux etre augmenter et baisser en fonction du poids du véhicule\n* Du CO² que le véhicule absorbe (+/- ch)\n* et (5.l'Aerodynamisme)"}
+		{"type":"link","url":"https://fce640c126.cbaul-cdnwnd.com/ec32ecd4cb8411d6d68825052427752a/200000005-74d9675d67/forces_en_jeu.png","id":"8500c5422ebc9a49","x":1590,"y":772,"width":400,"height":400},
+		{"type":"text","text":"Force frottement air \n* Baise ou augmente en fonction du gabarit du véhicule et du schema ","id":"9031693ea2e27d49","x":1340,"y":772,"width":250,"height":400},
+		{"type":"text","text":"Puissance\n* Peux etre augmenter et baisser en fonction du poids du véhicule\n* Du CO² que le véhicule absorbe (+/- ch)\n* et (5.l'Aerodynamisme)","id":"487b495ede187c91","x":1990,"y":772,"width":250,"height":400},
+		{"type":"text","text":"Déplacement reel dans l'environnement adapter","id":"13a5b791d03543c1","x":1665,"y":320,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
@@ -39,6 +40,8 @@
 		{"id":"6a93bd54b26ae839","fromNode":"1b031b6356d84267","fromSide":"right","toNode":"34d759553b7d6cb4","toSide":"top"},
 		{"id":"735d19187fd0cccd","fromNode":"34d759553b7d6cb4","fromSide":"bottom","toNode":"8951e06a33ae05f3","toSide":"right"},
 		{"id":"6bf0cda59da2d9e0","fromNode":"912b6a7a050dac24","fromSide":"right","toNode":"08abce430c0ea31d","toSide":"left"},
-		{"id":"0f8e3ea74ae10f6b","fromNode":"912b6a7a050dac24","fromSide":"right","toNode":"2e3534ec8e27eb3a","toSide":"left"}
+		{"id":"0f8e3ea74ae10f6b","fromNode":"912b6a7a050dac24","fromSide":"right","toNode":"2e3534ec8e27eb3a","toSide":"left"},
+		{"id":"54b4b27370716fc0","fromNode":"08abce430c0ea31d","fromSide":"bottom","toNode":"13a5b791d03543c1","toSide":"top"},
+		{"id":"d45fc5e74b574399","fromNode":"2e3534ec8e27eb3a","fromSide":"top","toNode":"13a5b791d03543c1","toSide":"bottom"}
 	]
 }
