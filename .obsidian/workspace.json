@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "73102cfe80808227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c825aadd90e7b407",
             "type": "leaf",
             "state": {
@@ -32,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jiiru/Gameplay.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jiiru/Gameplay.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jiiru/Gameplay.canvas"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,11 +180,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f40ed09b63b1ee0c",
+  "active": "73102cfe80808227",
   "lastOpenFiles": [
-    "Vabyz/StoryBoard.canvas",
     "Vabyz/Functionnaliter.md",
+    "Vabyz/StoryBoard.canvas",
     "Jiiru/Gameplay.canvas",
+    "conflict-files-obsidian-git.md",
     "Media",
     "Vabyz",
     "Jiiru"
