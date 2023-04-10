@@ -12,7 +12,8 @@
 		{"type":"text","text":"Kit Preset\n* Accès rapide a des amélioration sans ce fatigué déja pré-faite ","id":"3b4b58b9390a2148","x":-1280,"y":275,"width":250,"height":185,"color":"2"},
 		{"type":"text","text":"Esthetique\n* Modifie le visuel du véhicule (exemple : pare-choc, optique, etc.)","id":"34d759553b7d6cb4","x":900,"y":245,"width":250,"height":195,"color":"5"},
 		{"type":"text","text":"Comportement et puissance final du véhicule\n* Puissance et comportement Max additioner ","id":"a7bc00e9c6b95916","x":-178,"y":880,"width":250,"height":183,"color":"#210a4d"},
-		{"id":"edc3fc903011f767","x":1430,"y":-385,"width":250,"height":60,"type":"text","text":""}
+		{"id":"edc3fc903011f767","x":1430,"y":-385,"width":250,"height":60,"type":"text","text":"Type de sol \n* Terre\n* Gravier\n* Sable\n* Circuit\n* Urbain\n* "},
+		{"id":"67c74372432b6115","x":1631,"y":-217,"width":400,"height":400,"type":"link","url":"https://wiki.tripleperformance.fr/images/thumb/8/82/Triangle_textures_sol2.png/300px-Triangle_textures_sol2.png"}
 	],
 	"edges":[
 		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
