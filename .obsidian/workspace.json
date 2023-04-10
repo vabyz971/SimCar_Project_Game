@@ -1,24 +1,34 @@
 {
   "main": {
-    "id": "c071473ad088a783",
+    "id": "87c40a7f9652626e",
     "type": "split",
     "children": [
       {
-        "id": "23992ea2f653bcee",
+        "id": "e65bf3d4fae4b73a",
         "type": "tabs",
         "children": [
           {
-            "id": "043b2d94a248a04d",
+            "id": "f40ed09b63b1ee0c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Jiiru/Gameplay.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 372,
+                  "x": -14,
+                  "y": 235,
                   "zoom": 0
                 }
+              }
+            }
+          },
+          {
+            "id": "c825aadd90e7b407",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Vabyz/Functionnaliter.md"
               }
             }
           }
@@ -28,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b3a09bfdab2e826a",
+    "id": "00bcee7de17387ae",
     "type": "split",
     "children": [
       {
-        "id": "7502af7a5e8021a6",
+        "id": "dd672352e5f45b71",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b168e84bada130",
+            "id": "a6c318e18e2a19b1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,12 +56,12 @@
             }
           },
           {
-            "id": "45a2346c6dfe9002",
+            "id": "895761f0fe849c54",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ScriptableObject",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +71,7 @@
             }
           },
           {
-            "id": "1db541164ea95d8a",
+            "id": "e2e7e9b3a3408e1b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -75,15 +85,15 @@
     "width": 300
   },
   "right": {
-    "id": "234610dc61b34aa6",
+    "id": "b73f5d6ea4063957",
     "type": "split",
     "children": [
       {
-        "id": "481911f816ad8b29",
+        "id": "5022cff70f226e17",
         "type": "tabs",
         "children": [
           {
-            "id": "d87e341e584c94e0",
+            "id": "4ac69a2266765cac",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -94,13 +104,13 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "47fa396e84d5191a",
+            "id": "d49ad87f8818f084",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -112,7 +122,7 @@
             }
           },
           {
-            "id": "f41c1ad9bc736532",
+            "id": "01a0af4f806ca006",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,7 +133,7 @@
             }
           },
           {
-            "id": "4036e85b51355ec5",
+            "id": "390711a30f04e1a0",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -133,7 +143,7 @@
             }
           },
           {
-            "id": "669e31e8a1d24112",
+            "id": "8473cc850310071b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -157,18 +167,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "043b2d94a248a04d",
+  "active": "f40ed09b63b1ee0c",
   "lastOpenFiles": [
+    "Vabyz/StoryBoard.canvas",
     "Vabyz/Functionnaliter.md",
     "Jiiru/Gameplay.canvas",
-    "Jiiru",
-    "Vabyz/StoryBoard.canvas",
-    "2023-04-09.md",
-    "Jiiru/Gameplay.canvas",
-    "Jiiru",
-    "StoryBoard.canvas",
-    "conflict-files-obsidian-git.md",
-    "Sans titre.canvas",
-    "Sans titre.md"
+    "Media",
+    "Vabyz",
+    "Jiiru"
   ]
 }
