@@ -2,10 +2,18 @@
 	"nodes":[
 		{"id":"45f0d20d70091168","x":-180,"y":-280,"width":250,"height":60,"type":"text","text":"Véhicule"},
 		{"id":"1b031b6356d84267","x":-180,"y":-140,"width":250,"height":60,"type":"text","text":"Personnalisation"},
-		{"id":"3b4b58b9390a2148","x":-540,"y":-140,"width":250,"height":60,"type":"text","text":"Kit Preset"}
+		{"id":"3b4b58b9390a2148","x":-540,"y":-140,"width":250,"height":60,"type":"text","text":"Kit Preset"},
+		{"id":"de60440a9c10ad2d","x":-665,"y":60,"width":250,"height":60,"type":"text","text":"Adhérance"},
+		{"id":"8bb57cb74285e865","x":-400,"y":60,"width":250,"height":60,"type":"text","text":"Maniabilité"},
+		{"id":"6839d83dbc5ff1e6","x":40,"y":60,"width":250,"height":60,"type":"text","text":"Puissance"},
+		{"id":"c50536f9332731b7","x":342,"y":59,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
-		{"id":"64a82d002dc926b2","fromNode":"1b031b6356d84267","fromSide":"left","toNode":"3b4b58b9390a2148","toSide":"right"}
+		{"id":"64a82d002dc926b2","fromNode":"1b031b6356d84267","fromSide":"left","toNode":"3b4b58b9390a2148","toSide":"right"},
+		{"id":"c9468d1e25deb287","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"de60440a9c10ad2d","toSide":"top"},
+		{"id":"3860e5b50ee22fd2","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"8bb57cb74285e865","toSide":"top"},
+		{"id":"a0d06702b95fbeca","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"6839d83dbc5ff1e6","toSide":"top"},
+		{"id":"53195e60f4ca94e7","fromNode":"1b031b6356d84267","fromSide":"bottom","toNode":"c50536f9332731b7","toSide":"top"}
 	]
 }
