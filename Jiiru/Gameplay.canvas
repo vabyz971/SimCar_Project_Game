@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"45f0d20d70091168","x":-180,"y":-280,"width":250,"height":60,"type":"text","text":"Véhicule"},
+		{"id":"1b031b6356d84267","x":-180,"y":-140,"width":250,"height":60,"type":"text","text":"Personnalisation"},
+		{"id":"3b4b58b9390a2148","x":-540,"y":-140,"width":250,"height":60,"type":"text","text":"Kit Preset"}
+	],
+	"edges":[
+		{"id":"b9188823c4d096c5","fromNode":"45f0d20d70091168","fromSide":"bottom","toNode":"1b031b6356d84267","toSide":"top"},
+		{"id":"64a82d002dc926b2","fromNode":"1b031b6356d84267","fromSide":"left","toNode":"3b4b58b9390a2148","toSide":"right"}
+	]
+}
