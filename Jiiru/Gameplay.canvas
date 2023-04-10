@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"912b6a7a050dac24","x":-1300,"y":-620,"width":2470,"height":1940,"type":"group","label":"Véhicule"},
 		{"type":"text","text":"1.Adhérance\n* Pneus\n* Jantes","id":"de60440a9c10ad2d","x":-880,"y":60,"width":250,"height":580,"color":"6"},
 		{"type":"text","text":"5.Aerodynamisme\n* Spoiler\n* Moustache pare-choc\n* Lame Pare-choc\n* Prise d'air\n* Kit carrosserie","id":"c50536f9332731b7","x":500,"y":60,"width":250,"height":580,"color":"6"},
 		{"type":"text","text":"2.Maniabilité\n* Suspension\n* Frein\n* Pédalier\n* Barre de direction assistée","id":"8bb57cb74285e865","x":-560,"y":120,"width":250,"height":520,"color":"6"},
