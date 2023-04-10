@@ -1,25 +1,18 @@
 {
   "main": {
-    "id": "87c40a7f9652626e",
+    "id": "c071473ad088a783",
     "type": "split",
     "children": [
       {
-        "id": "f99aa856c5ee14e7",
+        "id": "23992ea2f653bcee",
         "type": "tabs",
         "children": [
           {
-            "id": "f8b32aeebac70631",
+            "id": "043b2d94a248a04d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Vabyz/StoryBoard.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -93,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -28,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "00bcee7de17387ae",
+    "id": "b3a09bfdab2e826a",
     "type": "split",
     "children": [
       {
-        "id": "dd672352e5f45b71",
+        "id": "7502af7a5e8021a6",
         "type": "tabs",
         "children": [
           {
-            "id": "a6c318e18e2a19b1",
+            "id": "b9b168e84bada130",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +39,7 @@
             }
           },
           {
-            "id": "895761f0fe849c54",
+            "id": "45a2346c6dfe9002",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +54,7 @@
             }
           },
           {
-            "id": "e2e7e9b3a3408e1b",
+            "id": "1db541164ea95d8a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -75,44 +68,42 @@
     "width": 300
   },
   "right": {
-    "id": "b73f5d6ea4063957",
+    "id": "234610dc61b34aa6",
     "type": "split",
     "children": [
       {
-        "id": "5022cff70f226e17",
+        "id": "481911f816ad8b29",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac69a2266765cac",
+            "id": "d87e341e584c94e0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vabyz/StoryBoard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d49ad87f8818f084",
+            "id": "47fa396e84d5191a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vabyz/StoryBoard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "01a0af4f806ca006",
+            "id": "f41c1ad9bc736532",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,17 +114,15 @@
             }
           },
           {
-            "id": "390711a30f04e1a0",
+            "id": "4036e85b51355ec5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vabyz/StoryBoard.canvas"
-              }
+              "state": {}
             }
           },
           {
-            "id": "8473cc850310071b",
+            "id": "669e31e8a1d24112",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -157,12 +146,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4ac69a2266765cac",
+  "active": "669e31e8a1d24112",
   "lastOpenFiles": [
-    "Vabyz/Functionnaliter.md",
-    "Vabyz/StoryBoard.canvas",
-    "Media",
-    "Vabyz",
-    "Jiiru"
+    "2023-04-09.md",
+    "Jiiru/Gameplay.canvas",
+    "Jiiru",
+    "StoryBoard.canvas",
+    "conflict-files-obsidian-git.md",
+    "Sans titre.canvas",
+    "Sans titre.md"
   ]
 }
