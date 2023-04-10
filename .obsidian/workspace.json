@@ -11,8 +11,15 @@
             "id": "043b2d94a248a04d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Jiiru/Gameplay.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jiiru/Gameplay.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Jiiru/Gameplay.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Jiiru/Gameplay.canvas"
+              }
             }
           },
           {
@@ -146,8 +157,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "669e31e8a1d24112",
+  "active": "b9b168e84bada130",
   "lastOpenFiles": [
+    "Vabyz/Functionnaliter.md",
+    "Jiiru/Gameplay.canvas",
+    "Jiiru",
+    "Vabyz/StoryBoard.canvas",
     "2023-04-09.md",
     "Jiiru/Gameplay.canvas",
     "Jiiru",
