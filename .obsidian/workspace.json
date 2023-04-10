@@ -15,9 +15,9 @@
               "state": {
                 "file": "Jiiru/Gameplay.canvas",
                 "viewState": {
-                  "x": -10,
-                  "y": 450,
-                  "zoom": 0
+                  "x": -65,
+                  "y": 340,
+                  "zoom": -0.05497672813128552
                 }
               }
             }
@@ -159,12 +159,11 @@
   },
   "active": "043b2d94a248a04d",
   "lastOpenFiles": [
-    "Vabyz/Functionnaliter.md",
-    "Jiiru/Gameplay.canvas",
-    "Jiiru",
     "Vabyz/StoryBoard.canvas",
-    "2023-04-09.md",
     "Jiiru/Gameplay.canvas",
+    "Vabyz/Functionnaliter.md",
+    "Jiiru",
+    "2023-04-09.md",
     "Jiiru",
     "StoryBoard.canvas",
     "conflict-files-obsidian-git.md",
