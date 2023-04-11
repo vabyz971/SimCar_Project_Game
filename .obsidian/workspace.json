@@ -11,24 +11,21 @@
             "id": "043b2d94a248a04d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Jiiru/Gameplay.canvas",
-                "viewState": {
-                  "x": 340,
-                  "y": 260,
-                  "zoom": -1.047402869230792
-                }
+                "file": "Jiiru/Storyboard.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "eb9360d31bf8c266",
+            "id": "c3d373cae43c538f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jiiru/Storyboard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jiiru/Storyboard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jiiru/Storyboard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jiiru/Storyboard.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -170,17 +167,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "eb9360d31bf8c266",
+  "active": "c3d373cae43c538f",
   "lastOpenFiles": [
-    "Jiiru/Gameplay.canvas",
     "Jiiru/Storyboard.md",
+    "Jiiru/Gameplay.canvas",
     "Vabyz/Functionnaliter.md",
     "Vabyz/StoryBoard.canvas",
+    "conflict-files-obsidian-git.md",
     "Jiiru",
     "2023-04-09.md",
     "Jiiru",
     "StoryBoard.canvas",
-    "conflict-files-obsidian-git.md",
     "Sans titre.canvas",
     "Sans titre.md"
   ]
