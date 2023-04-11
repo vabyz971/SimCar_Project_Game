@@ -1,0 +1,1 @@
+L'histoire commence par votre personnage (qui cera personnaliser) qui arrive en ville avec rien via un contact qui lui propose une vie meilleure 

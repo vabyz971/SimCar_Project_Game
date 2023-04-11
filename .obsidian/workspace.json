@@ -15,14 +15,27 @@
               "state": {
                 "file": "Jiiru/Gameplay.canvas",
                 "viewState": {
-                  "x": 25.598827444644144,
-                  "y": -0.040665511736222015,
-                  "zoom": -1.0474028692307922
+                  "x": 340,
+                  "y": 260,
+                  "zoom": -1.047402869230792
                 }
               }
             }
+          },
+          {
+            "id": "eb9360d31bf8c266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jiiru/Storyboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jiiru/Gameplay.canvas",
+                "file": "Jiiru/Storyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jiiru/Gameplay.canvas",
+                "file": "Jiiru/Storyboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jiiru/Gameplay.canvas"
+                "file": "Jiiru/Storyboard.md"
               }
             }
           },
@@ -157,11 +170,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "043b2d94a248a04d",
+  "active": "eb9360d31bf8c266",
   "lastOpenFiles": [
+    "Jiiru/Gameplay.canvas",
+    "Jiiru/Storyboard.md",
     "Vabyz/Functionnaliter.md",
     "Vabyz/StoryBoard.canvas",
-    "Jiiru/Gameplay.canvas",
     "Jiiru",
     "2023-04-09.md",
     "Jiiru",
